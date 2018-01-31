@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# What is Hacky Hour?
 
-You can use the [editor on GitHub](https://github.com/SCW-Aberystwyth/HackyHour/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hacky Hour is an informal meeting for anyone interested in using computing for research. Come along with your questions about how to use computing more effectively in research, this could be anything from programming issues, to High Performance Computing questions or how to organise and store your data. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Where and when do you meet?
 
-### Markdown
+Wednesday February 14th, 3pm, IBERS Cafe
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What should I bring?
 
-```markdown
-Syntax highlighted code block
+Bring your laptop and your research computing questions and/or solutions. 
 
-# Header 1
-## Header 2
-### Header 3
+## Who is it for?
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SCW-Aberystwyth/HackyHour/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Any staff or students from any department using computing in their research. 
