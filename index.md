@@ -31,3 +31,8 @@ Based on who well things go at the first session we'd like to make this a regula
 ## Who is running this?
 
 This event is being run by Colin Sauze (cos@aber.ac.uk) who works as a Research Software Engineer for the Super Computing Wales project (http://supercomputing.wales). 
+
+## Is there a Facebook or Eventbrite page for this?
+
+There's no need to RSVP for this,  but if you want to use Facebook or Eventbrite to trigger reminders for yourself then go to
+
