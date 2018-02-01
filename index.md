@@ -2,7 +2,9 @@
 
 Hacky Hour is an informal meeting for staff and students who need to use data intensive computing in their research.
 
-Come along with your questions about how to use computing more effectively in your research or offer to help others with their questions. This could include, but isn't limited to:
+Come along with your questions about how to use computing more effectively in your research or offer to help others with their questions. 
+
+Topics for discussion could include, but aren't limited to:
 
 * Programming
 * High Performance Computing
