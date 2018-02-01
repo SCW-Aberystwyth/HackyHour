@@ -36,5 +36,10 @@ This event is being run by Colin Sauze (cos@aber.ac.uk) who works as a Research 
 
 ## Is there a Facebook or Eventbrite page for this?
 
-There's no need to RSVP for this,  but if you want to use Facebook or Eventbrite to trigger reminders for yourself then go to
+There's no need to RSVP for this,  but if you want to use Facebook or Eventbrite to trigger reminders for yourself then go to:
 
+https://www.eventbrite.com/e/research-computing-hacky-hour-tickets-42746445770
+
+or
+
+https://www.facebook.com/events/1978420522483351/
