@@ -1,3 +1,5 @@
+![HackyHour Logo](hackyhour-medium.png)
+
 # What is Hacky Hour?
 
 Hacky Hour is an informal meeting for staff and students who need to use data intensive computing in their research.
