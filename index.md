@@ -18,7 +18,9 @@ Topics for discussion could include, but aren't limited to:
 
 # Where and when do you meet?
 
-Wednesday February 14th, 3pm, IBERS Cafe. Look out for people with laptops and a sign saying "Research Computing Hacky Hour".
+The next meetup is:
+
+Thursday March 1st, 3pm, 0.31 IBERS (two down from the cafe). Feel free to grab a drink or something to eat from the cafe first.
 
 ## What should I bring?
 
@@ -36,12 +38,12 @@ Based on who well things go at the first session we'd like to make this a regula
 
 This event is being run by Colin Sauze (cos@aber.ac.uk) who works as a Research Software Engineer for the Super Computing Wales project (http://supercomputing.wales). 
 
-## Is there a Facebook or Eventbrite page for this?
+## Is there a Facebook or Twitter page for this?
 
-There's no need to RSVP for this,  but if you want to use Facebook or Eventbrite to trigger reminders then use the following event pages:
+Yes:
 
-Eventbrite Event (https://www.eventbrite.com/e/research-computing-hacky-hour-tickets-42746445770)
+https://www.facebook.com/hackyhouraber
 
-or
+and
 
-Facebook Event (https://www.facebook.com/events/1978420522483351/)
+https://www.twitter.com/hackyhouraber
