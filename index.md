@@ -20,7 +20,7 @@ Topics for discussion could include, but aren't limited to:
 
 The next meetup is:
 
-Thursday March 1st, 3pm, 0.31 IBERS (two down from the cafe). Feel free to grab a drink or something to eat from the cafe first.
+Wednesday March 21st, 3pm, 0.30 IBERS (next door to the cafe). Feel free to grab a drink or something to eat from the cafe first.
 
 ## What should I bring?
 
