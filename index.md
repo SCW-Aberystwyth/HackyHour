@@ -33,9 +33,9 @@ Friday April 27th, 3pm, 0.32 IBERS.
 
 Friday May 11th, 3pm, B20 Llandinam
 
-Friday May 25th, B20 Llandinam
+Friday May 25th, 3pm, B20 Llandinam
 
-Friday June 8th, B20 Llandinam
+Friday June 8th, 3pm, B20 Llandinam
 
 ## What should I bring?
 
