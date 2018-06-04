@@ -29,8 +29,6 @@ https://goo.gl/forms/QlOQNKmfJCo2O2hw1
 # Where and when do you meet?
 Upcoming meetings are:
 
-Friday May 25th, 3pm, B20 Llandinam
-
 Friday June 8th, 3pm, B20 Llandinam
 
 Friday June 22nd, 3pm, C65 Llandinam
