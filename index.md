@@ -22,9 +22,7 @@ Topics for discussion could include, but aren't limited to:
 
 You can also present your research in a short 5 minute lightning talk. These talks should be aimed at a broad audience that includes people outside of your own discipline.
 
-If you want to give a talk then please signup at:
-
-[signup](https://goo.gl/forms/QlOQNKmfJCo2O2hw1)
+If you want to give a talk then please signup by filling out this [form](https://goo.gl/forms/QlOQNKmfJCo2O2hw1)
 
 # Where and when do you meet?
 Upcoming meetings are:
@@ -49,10 +47,4 @@ This event is being run by Colin Sauze (cos@aber.ac.uk) who works as a Research 
 
 ## Is there a Facebook or Twitter page for this?
 
-Yes:
-
-[facebook](https://www.facebook.com/hackyhouraber)
-
-and
-
-[twitter](https://www.twitter.com/hackyhouraber)
+Yes, there is a [Facebook](https://www.facebook.com/hackyhouraber) page and a [Twitter](https://www.twitter.com/hackyhouraber) account.
