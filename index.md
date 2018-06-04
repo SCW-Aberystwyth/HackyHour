@@ -24,7 +24,7 @@ You can also present your research in a short 5 minute lightning talk. These tal
 
 If you want to give a talk then please signup at:
 
-https://goo.gl/forms/QlOQNKmfJCo2O2hw1
+[signup](https://goo.gl/forms/QlOQNKmfJCo2O2hw1)
 
 # Where and when do you meet?
 Upcoming meetings are:
@@ -51,8 +51,8 @@ This event is being run by Colin Sauze (cos@aber.ac.uk) who works as a Research 
 
 Yes:
 
-https://www.facebook.com/hackyhouraber
+[facebook](https://www.facebook.com/hackyhouraber)
 
 and
 
-https://www.twitter.com/hackyhouraber
+[twitter](https://www.twitter.com/hackyhouraber)
