@@ -27,11 +27,15 @@ If you want to give a talk then please signup by filling out this [form](https:/
 # Where and when do you meet?
 Upcoming meetings are:
 
-Friday June 8th, 3pm, B20 Llandinam
-
-Friday June 22nd, 3pm, C65 Llandinam
-
 Friday July 6th, 3pm, B20 Llandinam
+
+Friday July 20th, 3pm, 1.16 Edward Llwyd
+
+Friday August 3rd, 3pm, 1.16 Edward Llwyd
+
+Friday August 17th, 3pm, 1.16 Edward Llwyd
+
+Friday August 31st, 3pm, 1.16 Edward Llwyd
 
 ## What should I bring?
 
