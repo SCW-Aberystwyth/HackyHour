@@ -26,7 +26,7 @@ If you want to give a talk then please signup by filling out this [form](https:/
 
 ### Previous Talks
 
-A list of previous talks can be found on the previous talks page. 
+A list of previous talks can be found on the [previous talks](previoustalks) page. 
 
 # Where and when do you meet?
 Upcoming meetings are:
