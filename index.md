@@ -24,11 +24,19 @@ You can also present your research in a short 5 minute lightning talk. These tal
 
 If you want to give a talk then please signup by filling out this [form](https://goo.gl/forms/QlOQNKmfJCo2O2hw1)
 
+### Previous Talks
+
+A list of previous talks can be found on the previous talks page. 
+
 # Where and when do you meet?
 Upcoming meetings are:
 
-* Friday September 14th, 3pm, B20 Llandinam
-* Friday September 28th, 3pm, B20 Llandinam
+* Friday September 28th, 3pm, G3a LLandinam
+* Friday October 12th, 3pm, B20 Llandinam
+* Friday October 26th, 3pm, B20 Llandinam
+* Friday November 9th, 3pm, G3a Llandinam
+* Friday November 23rd, 3pm, B20 Llandinam
+* Friday December 12th, 3pm, B20 Llandinam
 
 ## What should I bring?
 
@@ -45,3 +53,10 @@ This event is being run by Colin Sauze (cos@aber.ac.uk) who works as a Research 
 ## Is there a Facebook or Twitter page for this?
 
 Yes, there is a [Facebook](https://www.facebook.com/hackyhouraber) page and a [Twitter](https://www.twitter.com/hackyhouraber) account.
+
+## Directory of Expertise
+
+Looking for somebody to help with something, but don't know who to ask? The [directory of expertise](https://board.net/p/HackyHourAber) has a list of people who might be able to help.
+
+If you are willing to offer help to others, then please add yourself to this. Simply copy and paste the template at the bottom of the document and fill out your details. 
+
