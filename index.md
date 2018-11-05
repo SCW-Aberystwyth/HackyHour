@@ -31,10 +31,7 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 # Where and when do you meet?
 Upcoming meetings are:
 
-* Friday September 28th, 3pm, G3a LLandinam
-* Friday October 12th, 3pm, B20 Llandinam
-* Friday October 26th, 3pm, B20 Llandinam
-* Friday November 9th, 3pm, G3a Llandinam
+* Friday November 9th, 3pm, G3a Llandinam with a Demonstration/discussion of [ORCID](https://orcid.org/). 
 * Friday November 23rd, 3pm, B20 Llandinam
 * Friday December 12th, 3pm, B20 Llandinam
 
