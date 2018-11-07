@@ -33,7 +33,7 @@ Upcoming meetings are:
 
 * Friday November 9th, 3pm, G3a Llandinam with a Demonstration/discussion of [ORCID](https://orcid.org/). 
 * Friday November 23rd, 3pm, B20 Llandinam
-* Friday December 12th, 3pm, B20 Llandinam
+* Friday December 14th, 3pm, B20 Llandinam
 
 ## What should I bring?
 
