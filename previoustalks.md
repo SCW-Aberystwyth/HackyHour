@@ -41,3 +41,13 @@ EEG and eye-tracking methods enable researchers to gain insights into many aspec
 ## Super Computing Wales pre-launch demo, Colin Sauze, Super Computing Wales/Compsci, September 14th 2018
 
 In this talk i'll introduce the upcoming Super Computing Wales HPC system which is due to launch for general availability on September 24th. 
+
+## ORCID, John Roberts, Research, Business and Innovation, November 9th 2018
+
+A brief overview of how to use [ORCID](http://orcid.org), a system for uniquely identifying researchers on publications.
+
+## Handling Spatial Data in the Global-Rural Project,  Anthonia Ijeoma Onyeahialam  and  Jack Reggie Cook, Department of Geography and Earth Sciences, December 7th 2018
+
+This presentation will highlight the GIS and Geovisualisation work undertaken on the Global-Rural Project. It will show the use of GIS to analyse, examine and map global scale globalisation processes, drawing on patterns and relationships to rural communities. This presentation will provide an overview of the methods of analysis, mapping and visualisation, the softwares used, some mapping outputs and challenges faced. For further information please visit: [https://www.global-rural.org/](https://www.global-rural.org/)
+
+
