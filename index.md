@@ -31,7 +31,8 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 # Where and when do you meet?
 Upcoming meetings are:
 
-* Friday December 7th, 3pm, B20 Llandinam, Lightning talk about GIS data on the [Global-Rural project](https://www.global-rural.org/)
+* Friday January 11th, 3pm in B20 Llandinam
+* Friday January 25th, 3pm in B20 Llandinam
 
 ## What should I bring?
 
