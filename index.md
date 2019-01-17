@@ -28,10 +28,9 @@ If you want to give a talk then please signup by filling out this [form](https:/
 
 A list of previous talks can be found on the [previous talks](previoustalks) page. 
 
-# Where and when do you meet?
+## Where and when do you meet?
 Upcoming meetings are:
 
-* Friday January 11th, 3pm in B20 Llandinam
 * Friday January 25th, 3pm in B20 Llandinam
 
 ## What should I bring?
@@ -56,3 +55,7 @@ Looking for somebody to help with something, but don't know who to ask? The [dir
 
 If you are willing to offer help to others, then please add yourself to this. Simply copy and paste the template at the bottom of the document and fill out your details. 
 
+## Related Activities
+
+* [Python Study Group](https://scw-aberystwyth.github.io/Python-Study-Group/) - This group meets on alternate weeks to Hacky Hour and is intended for anyone who has basic Python knowledge but wants to improve their Python skills.
+* [Super Computing Wales and Software Carpentry Training Courses](http://tinyurl.com/scwworkshops) - These cover the Unix shell, version control with Git, Python programming, HPC usage and parallel processing. 
