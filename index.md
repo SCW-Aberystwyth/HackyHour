@@ -31,7 +31,12 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 ## Where and when do you meet?
 Upcoming meetings are:
 
-* Friday January 25th, 3pm in B20 Llandinam
+* Friday Febuary 8th 
+* Friday February 22nd
+* Friday March 8th 
+* Friday March 22nd
+* Friday April 5th
+
 
 ## What should I bring?
 
