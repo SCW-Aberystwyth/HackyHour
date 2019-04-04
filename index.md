@@ -29,14 +29,13 @@ If you want to give a talk then please signup by filling out this [form](https:/
 A list of previous talks can be found on the [previous talks](previoustalks) page. 
 
 ## Where and when do you meet?
-Upcoming meetings are:
 
-* Friday Febuary 8th 
-* Friday February 22nd
-* Friday March 8th 
-* Friday March 22nd
-* Friday April 5th
-
+* Friday April 5th - 3:10pm, B20 Llandinam
+* Friday April 29th - 3:10pm, 0.30 IBERS
+* Friday May 13th - 3:10pm, 0.30 IBERS
+* Friday May 27th - 3:10pm, 0.30 IBERS
+* Friday June 10th - 3:10pm, 0.30 IBERS
+* Friday June 24th - 3:10pm, 0.30 IBERS
 
 ## What should I bring?
 
