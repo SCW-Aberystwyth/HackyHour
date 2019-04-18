@@ -30,12 +30,12 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* Friday April 5th - 3:10pm, B20 Llandinam
-* Friday April 29th - 3:10pm, 0.30 IBERS
-* Friday May 13th - 3:10pm, 0.30 IBERS
-* Friday May 27th - 3:10pm, 0.30 IBERS
-* Friday June 10th - 3:10pm, 0.30 IBERS
-* Friday June 24th - 3:10pm, 0.30 IBERS
+* Friday May 3rd - 3:10pm, 0.30 IBERS
+* Friday May 17th - 3:10pm, 0.30 IBERS
+* Friday May 31st - 3:10pm, 0.30 IBERS
+* Friday June 14th - 3:10pm, 0.30 IBERS
+* Friday June 28th - 3:10pm, 0.30 IBERS
+
 
 ## What should I bring?
 
