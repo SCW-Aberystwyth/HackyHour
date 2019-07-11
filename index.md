@@ -35,6 +35,7 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 * Friday May 31st - 3:10pm, 0.30 IBERS
 * Friday June 14th - 3:10pm, 0.30 IBERS
 * Friday June 28th - 3:10pm, 0.30 IBERS
+* Friday July 12th - 1:10pm, G3a Llandinam (Geography Tower)
 
 
 ## What should I bring?
