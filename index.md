@@ -30,12 +30,9 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* Friday May 3rd - 3:10pm, 0.30 IBERS
-* Friday May 17th - 3:10pm, 0.30 IBERS
-* Friday May 31st - 3:10pm, 0.30 IBERS
-* Friday June 14th - 3:10pm, 0.30 IBERS
-* Friday June 28th - 3:10pm, 0.30 IBERS
-* Friday July 12th - 1:10pm, G3a Llandinam (Geography Tower)
+* Friday September 6th, 3:10pm, 0.30 IBERS building
+* Friday September 20th, 3:10pm, 3.05 Physics building
+* Friday October 4th, 3:10pm, 3.05 Physics building
 
 
 ## What should I bring?
