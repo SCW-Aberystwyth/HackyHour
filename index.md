@@ -30,8 +30,11 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* Friday September 20th, 3:10pm, 3.05 Physics building
-* Friday October 4th, 3:10pm, 3.05 Physics building
+* Friday October 18th, 4:10pm, 0.31 IBERS
+* Friday November 1st, 4:10pm, 0.31 IBERS
+* Friday November 15th, 4:10pm, 0.31 IBERS
+* Friday November 29th, 4:10pm, 0.31 IBERS
+* Friday December 13th, 4:10pm, 0.31 IBERS
 
 ## What should I bring?
 
