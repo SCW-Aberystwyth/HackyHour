@@ -30,7 +30,6 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* Friday October 18th, 4:10pm, 0.31 IBERS
 * Friday November 1st, 4:10pm, 0.31 IBERS
 * Friday November 15th, 4:10pm, 0.31 IBERS
 * Friday November 29th, 4:10pm, 0.31 IBERS
