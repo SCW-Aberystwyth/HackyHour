@@ -30,7 +30,7 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* Friday December 13th, 3:10pm, 0.31 IBERS
+* Friday January 10th, 3:10pm, IBERS 0.30
 
 ## What should I bring?
 
