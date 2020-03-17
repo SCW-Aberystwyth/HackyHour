@@ -30,11 +30,8 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* ~~Wednesday February 19th, 15:10-16:00, 0.31 IBERS ~~
-* Tuesday, February 18th, 15:10-16:00, 0.31 IBERS
-* Friday March 6th, 15:10-16:00, 0.30 IBERS
-* Wednesday March 18th, 15:10-16:00, 0.31 IBERS 
-* Friday April 3rd, 15:10-16:00, 0.30 IBERS
+* Wednesday March 18th, 15:10-16:00, 0.31 IBERS. Video conference at 16:10-17:00, see emails for details on how to connect.
+* Friday April 3rd, 15:10-16:00, venue TBC, probably via video conference.
 
 ## What should I bring?
 
