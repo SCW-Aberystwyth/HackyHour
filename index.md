@@ -30,8 +30,11 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* Wednesday March 18th, 15:10-16:00 via video conference, see emails for details on how to connect.
-* Friday April 3rd, 15:10-16:00, venue TBC, probably via video conference.
+* Wednesday May 6th, 15:10-16:00 via video conference, see emails for details on how to connect.
+* Friday May 22nd, 15:10-16:00, venue TBC
+* Wednesday June 3rd, 15:10-16:00, venue TBC
+
+Online meetings will continue until in person meetings are permitted again. 
 
 ## What should I bring?
 
