@@ -30,11 +30,11 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* Wednesday May 6th, 15:10-16:00 via video conference, see emails for details on how to connect.
-* Friday May 22nd, 15:10-16:00, venue TBC
-* Wednesday June 3rd, 15:10-16:00, venue TBC
+* Friday July 3rd, 3pm, via video conference
+* Wednesday July 15th, 3pm, via video conference
+* Friday July 31st, 3pm, via video conference
 
-Online meetings will continue until in person meetings are permitted again. 
+Online meetings will continue until in person meetings are permitted again. The connection details will be circulated on the Hacky Hour mailing list, please email cos@aber.ac.uk to be added to this list.
 
 ## What should I bring?
 
