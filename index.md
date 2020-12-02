@@ -30,9 +30,7 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 ## Where and when do you meet?
 
-* Friday September 25th, 3:10pm
-* Wednesay October 7th, 3:10pm
-* Friday October 23rd, 3:10pm
+* Wednesday December 9th 2020
 
 Online meetings will continue until in person meetings are permitted again. The connection details will be circulated on the Hacky Hour mailing list, please email cos@aber.ac.uk to be added to this list.
 
