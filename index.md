@@ -32,9 +32,8 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 Generally a Hacky Hour runs every other week, alternating between Wednesday and Friday at 3:10pm. Upcoming times are:
 
-* Wednesday April 21st 2021, 3:10pm
-* Friday May 7th 2021, 3:10pm
 * Wednesday May 19th 2021, 3:10pm
+* Wednesday June 16th 2021, 3:10pm
 
 Online meetings will continue until in person meetings are permitted again. The connection details will be circulated on the Hacky Hour mailing list, please email cos@aber.ac.uk to be added to this list.
 
