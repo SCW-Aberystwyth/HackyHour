@@ -32,7 +32,9 @@ A list of previous talks can be found on the [previous talks](previoustalks) pag
 
 Generally a Hacky Hour runs every other week, alternating between Wednesday and Friday at 3:10pm. Upcoming times are:
 
-* Wednesday August 11th, 3pm
+* Friday August 27th, 3pm
+* Wednesday September 8th, 3pm
+* Friday September 24th, 3pm 
 
 Online meetings will continue until in person meetings are permitted again. The connection details will be circulated on the Hacky Hour mailing list, please email cos@aber.ac.uk to be added to this list.
 
