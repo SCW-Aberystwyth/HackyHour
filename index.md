@@ -18,25 +18,15 @@ Topics for discussion could include, but aren't limited to:
 * Machine learning
 * Data visualisation
 
-## Lightning Talks
-
-You can also present your research in a short 5 minute lightning talk. These talks should be aimed at a broad audience that includes people outside of your own discipline.
-
-If you want to give a talk then please signup by filling out this [form](https://goo.gl/forms/QlOQNKmfJCo2O2hw1)
-
-### Previous Talks
-
-A list of previous talks can be found on the [previous talks](previoustalks) page. 
-
 ## Where and when do you meet?
 
 Generally a Hacky Hour runs every other week, alternating between Wednesday and Friday at 3:10pm. Upcoming times are:
 
-* Friday August 27th, 3pm
-* Wednesday September 8th, 3pm
-* Friday September 24th, 3pm 
+* Friday November 19th, 3pm
+* Wednesday December 1st, 3pm
+* Friday December 17h, 3pm 
 
-Online meetings will continue until in person meetings are permitted again. The connection details will be circulated on the Hacky Hour mailing list, please email cos@aber.ac.uk to be added to this list.
+These meetings are online for the time being. The connection details will be circulated on the Hacky Hour mailing list, please email cos@aber.ac.uk to be added to this list.
 
 ## What should I bring?
 
@@ -54,7 +44,17 @@ This event is being run by Colin Sauze (cos@aber.ac.uk) who works as a Research 
 
 Yes, there is a [Facebook](https://www.facebook.com/hackyhouraber) page and a [Twitter](https://www.twitter.com/hackyhouraber) account.
 
-## Directory of Expertise
+## Lightning Talks
+
+You can also present your research in a short 5 minute lightning talk. These talks should be aimed at a broad audience that includes people outside of your own discipline.
+
+If you want to give a talk then please signup by filling out this [form](https://goo.gl/forms/QlOQNKmfJCo2O2hw1)
+
+### Previous Talks
+
+A list of previous talks can be found on the [previous talks](previoustalks) page. 
+
+### Directory of Expertise
 
 Looking for somebody to help with something, but don't know who to ask? The [directory of expertise](https://board.net/p/HackyHourAber) has a list of people who might be able to help.
 
