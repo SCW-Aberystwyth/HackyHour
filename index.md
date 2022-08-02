@@ -22,9 +22,7 @@ Topics for discussion could include, but aren't limited to:
 
 Generally a Hacky Hour runs every other week, alternating between Wednesday 10am and Friday 2pm. Upcoming times are:
 
-* Wednesday June 15th, 10am
-* Thursday June 30th, 2pm
-* Wednesday July 13th, 10am (to be confirmed)
+* Friday August 5th, 3pm (not the usual 2pm!)
 
 These meetings are online for the time being. The connection details will be circulated on the Hacky Hour mailing list, please email cos@aber.ac.uk to be added to this list.
 
