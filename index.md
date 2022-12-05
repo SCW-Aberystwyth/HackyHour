@@ -22,8 +22,6 @@ Topics for discussion could include, but aren't limited to:
 
 Generally a Hacky Hour runs every other week, alternating between Wednesday 10am and Friday 2pm. Upcoming times are:
 
-* Wednesday November 9th, 10am
-* Friday November 25th, 2pm
 * Wednesday December 7th, 10am
 
 These meetings are online for the time being. The connection details will be circulated on the Hacky Hour mailing list, please email cos@aber.ac.uk to be added to this list.
